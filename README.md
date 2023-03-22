@@ -1,4 +1,4 @@
-# PortScanner
+# Port Scanner
 Port scanner like nmap, but simplier
 # Installation
 ```
